@@ -6,3 +6,4 @@ if st.button('Say hi!'):
      st.write('Why hello there')
 else:
      st.write('Goodbye')
+print('lorem')
